@@ -2,78 +2,73 @@ Kitchen
 --------------------
 A dank and dirty room buzzing with flies.
 The Dining Hall is south
-> talk
+Ben is here!
+A friendly dog that is ready to help you
+Ben has a book
+A really good book entitled 'Knitting for dummies'
+You can take it from your friend
+> take from friend
 
 
-Kitchen
---------------------
-A dank and dirty room buzzing with flies.
-The Dining Hall is south
-> fight
-There is no one here to fight with
-
-
-Kitchen
---------------------
-A dank and dirty room buzzing with flies.
-The Dining Hall is south
-> take
-There's nothing here to take!
-
-
-Kitchen
---------------------
-A dank and dirty room buzzing with flies.
-The Dining Hall is south
-> south
-
-
-Dining Hall
---------------------
-A large room with ornate golden decorations on each wall.
-The Ballroom is west
-The Kitchen is north
-Dave is here!
-A smelly zombie
-The [book] is here - A really good book entitled 'Knitting for dummies'
-> talk
-[Dave says]: What's up, dude! I'm hungry.
-
-
-Dining Hall
---------------------
-A large room with ornate golden decorations on each wall.
-The Ballroom is west
-The Kitchen is north
-Dave is here!
-A smelly zombie
-The [book] is here - A really good book entitled 'Knitting for dummies'
-> take
 You put the book in your backpack
 
 
-Dining Hall
+Kitchen
 --------------------
-A large room with ornate golden decorations on each wall.
-The Ballroom is west
-The Kitchen is north
-Dave is here!
-A smelly zombie
-> north
+A dank and dirty room buzzing with flies.
+The Dining Hall is south
+Ben is here!
+A friendly dog that is ready to help you
+> talk
+
+
+Hi, I'm Ben. Nice to meet you
 
 
 Kitchen
 --------------------
 A dank and dirty room buzzing with flies.
 The Dining Hall is south
+Ben is here!
+A friendly dog that is ready to help you
 > south
 
 
 Dining Hall
 --------------------
 A large room with ornate golden decorations on each wall.
-The Ballroom is west
 The Kitchen is north
+The Ballroom is west
+Dave is here!
+A smelly zombie
+There is a(an) okurok
+It is putler in youth
+> take from friend
+
+
+It is your enemy!
+
+
+Dining Hall
+--------------------
+A large room with ornate golden decorations on each wall.
+The Kitchen is north
+The Ballroom is west
+Dave is here!
+A smelly zombie
+There is a(an) okurok
+It is putler in youth
+> take
+
+
+You put the okurok in your backpack
+
+
+Dining Hall
+--------------------
+A large room with ornate golden decorations on each wall.
+The Kitchen is north
+The Ballroom is west
 Dave is here!
 A smelly zombie
 > west
@@ -85,19 +80,11 @@ A vast room with a shiny wooden floor. Huge candlesticks guard the entrance.
 The Dining Hall is east
 Tabitha is here!
 An enormous spider with countless eyes and furry legs.
-The [cheese] is here - A large and smelly block of cheese
-> talk
-[Tabitha says]: Sssss....I'm so bored...
-
-
-Ballroom
---------------------
-A vast room with a shiny wooden floor. Huge candlesticks guard the entrance.
-The Dining Hall is east
-Tabitha is here!
-An enormous spider with countless eyes and furry legs.
-The [cheese] is here - A large and smelly block of cheese
+There is a(an) cheese
+A large and smelly block of cheese
 > take
+
+
 You put the cheese in your backpack
 
 
@@ -107,30 +94,46 @@ A vast room with a shiny wooden floor. Huge candlesticks guard the entrance.
 The Dining Hall is east
 Tabitha is here!
 An enormous spider with countless eyes and furry legs.
-> fight
-What will you fight with?
-book
-You fend Tabitha off with the book
-Hooray, you won the fight!
-
-
-Ballroom
---------------------
-A vast room with a shiny wooden floor. Huge candlesticks guard the entrance.
-The Dining Hall is east
 > east
 
 
 Dining Hall
 --------------------
 A large room with ornate golden decorations on each wall.
-The Ballroom is west
 The Kitchen is north
+The Ballroom is west
 Dave is here!
 A smelly zombie
 > fight
+
+
 What will you fight with?
-book
-Dave crushes you, puny adventurer!
+cheese
+
+
+Hooray, you won the fight!
+
+
+Dining Hall
+--------------------
+A large room with ornate golden decorations on each wall.
+The Kitchen is north
+The Ballroom is west
+> west
+
+
+Ballroom
+--------------------
+A vast room with a shiny wooden floor. Huge candlesticks guard the entrance.
+The Dining Hall is east
+Tabitha is here!
+An enormous spider with countless eyes and furry legs.
+> fight
+
+
+What will you fight with?
+okurok
+
+
 Oh dear, you lost the fight.
 That's the end of the game
