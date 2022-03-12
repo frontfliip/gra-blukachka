@@ -75,7 +75,7 @@ class Room:
 
 class Item:
     """
-    A class that represents the class
+    A class that represents the item
     """
 
     def __init__(self, name) -> None:
